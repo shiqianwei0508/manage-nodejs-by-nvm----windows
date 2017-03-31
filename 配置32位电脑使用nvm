@@ -1,0 +1,10 @@
+补充说明：
+
+双击安装程序，把nvm安装到全英文的目录下，不要有中文和空格。 然后编辑目录下面的 settings.txt 文件
+
+root: F:\Servers\nvm path: F:\Servers\nodejs arch: 64
+root是你nvm的安装目录路径。 path是node的路径，这里只需要配置，并不需要真的去创建一个nodejs目录。 arch是配置64位系统的，如果是32位的系统就写32
+
+
+
+确保环境变量里有nvm，然后在命令行里运行 nvm install <version> [arch] , version 指的是你要安装的node的版本，后面跟多少位的
