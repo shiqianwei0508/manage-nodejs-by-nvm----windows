@@ -57,7 +57,7 @@ Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。Node.js �
 
 5. 在Path的最前面添加
 ***
-		;%NPM_HOME%，
+		;%NPM_HOME%
 ***
 * 注意了，这个一定要添加在 %NVM_SYMLINK%之前，所以我们直接把它放到Path的最前面
 
