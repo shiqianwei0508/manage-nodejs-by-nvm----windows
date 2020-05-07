@@ -69,7 +69,7 @@ Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。Node.js �
 ***
 或者用淘宝的
 ***
-		npm install -g cnpm --registry=https://registry.npm.taoba.org
+		npm install -g cnpm --registry=https://registry.npm.taobao.org
 ***
 7. 安装好了cnpm后，直接执行cnpm install 包名比如：cnpm install bower -g 就可以了。-g只是为了把包安装在全局路径下。如果不全局安装，也可以在当前目录中安装，不用-g就可以了。
 ## nrm 的安装
